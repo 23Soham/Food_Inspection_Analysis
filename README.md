@@ -10,9 +10,9 @@ In this Food Inspection Analysis Project, the critical task is of monitoring and
 
 ##### SQL 
 ##### Python
-##### ER Studio
-##### Tableau
-##### PowerBI
+##### ER Studio (Dimensional Model)
+##### Tableau (Visualization Dashboard)
+##### PowerBI (Visualization Dashboard)
 
 Datasets of two cities:- 
 #### Note that data differs in content & schema
