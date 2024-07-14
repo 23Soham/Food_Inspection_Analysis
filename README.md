@@ -6,6 +6,14 @@
 In this Food Inspection Analysis Project, the critical task is of monitoring and ensuring food safety through rigorous inspections. Utilizing a dataset of food inspection records, this project aims to uncover patterns, identify potential risks, and enhance public health initiatives. By analyzing inspection results, violations, and outcomes, we can provide valuable insights into the effectiveness of current food safety practices and regulations. The project involves data collection, cleaning, and transformation, followed by the design and implementation of a dimensional model for structured analysis. Advanced data profiling and visualization tools are employed to create intuitive dashboards that stakeholders can use to make informed decisions. Ultimately, this project strives to improve food safety standards and protect consumers by leveraging data-driven insights.
 
 
+### Tech Stack:
+
+##### SQL 
+##### Python
+##### ER Studio
+##### Tableau
+##### PowerBI
+
 Datasets of two cities:- 
 #### Note that data differs in content & schema
 
