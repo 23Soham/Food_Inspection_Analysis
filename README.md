@@ -70,3 +70,54 @@ What to Do: Use Business Intelligence (BI) tools to create interactive dashboard
 Why It’s Important: Dashboards provide stakeholders with insights into the data, making it easier to make informed decisions.
 
 
+## Business Questions for Food Inspection Analysis Dashboard
+- Inspection Result Analysis:
+
+What are the outcomes of food inspections (e.g., pass, fail, conditional pass)?
+
+How frequently do each of these results occur?
+
+- Inspection Type Breakdown:
+
+What types of inspections are conducted (e.g., routine, follow-up, complaint-driven)?
+
+How many inspections fall under each type?
+
+- Risk Category Distribution:
+
+What are the risk levels assigned to different facilities (e.g., high, medium, low)?
+
+How many facilities fall under each risk category?
+
+- Facility Type Insights:
+
+What types of facilities are inspected (e.g., restaurants, cafeterias, grocery stores)?
+
+How many inspections are conducted for each facility type?
+
+- Violations Analysis:
+
+What are the most common violation codes and descriptions?
+
+How often do these violations occur?
+
+- Business Inspection Details:
+
+Which businesses (DBA, AKA) are inspected?
+
+What are the license numbers associated with these businesses?
+
+What are the inspection outcomes for each business?
+
+- Location-Based Insights:
+
+Where are the inspections conducted geographically?
+
+Are there any hotspots for violations?
+
+- Inspection Report Analysis:
+
+What are the detailed findings in the inspection reports?
+
+How do violations and inspector comments vary by inspection number and license number?
+
