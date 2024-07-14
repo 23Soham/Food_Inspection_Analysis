@@ -121,3 +121,10 @@ What are the detailed findings in the inspection reports?
 
 How do violations and inspector comments vary by inspection number and license number?
 
+
+## Visualization Dashboard:
+
+<img width="1169" alt="Screenshot 2024-07-14 at 1 01 17 PM" src="https://github.com/user-attachments/assets/701a8791-748e-4620-bed3-f31a9cf5fa86">
+
+<img width="1170" alt="Screenshot 2024-07-14 at 1 03 24 PM" src="https://github.com/user-attachments/assets/99f15a82-ff76-49c4-b136-34ab62307554">
+
